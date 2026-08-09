@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+ENV/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+*.pid
+docs/
+
+# Docker local overrides and generated data
+compose.override.yaml
+compose.override.yml
+docker-compose.override.yaml
+docker-compose.override.yml
+
+**/.docker-data/
+**/docker-data/
+**/docker-volumes/
+
+# MongoDB bind-mounted data and WiredTiger files
+**/.mongo-data/
+**/mongo-data/
+**/mongodb-data/
+**/mongo-volumes/
+**/mongodb-volumes/
+**/configdb/
+**/diagnostic.data/
+
+**/WiredTiger*
+**/_mdb_catalog.wt
+**/collection-*.wt
+**/index-*.wt
+**/mongod.lock
+**/storage.bson
