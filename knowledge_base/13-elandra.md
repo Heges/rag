@@ -1,0 +1,19 @@
+# Elandra
+
+Category: Planet
+
+Elandra, designated IX3244-A, also known as the Forest Moon of Elandra or the Sanctuary Moon, was a small forested moon that was the ninth moon that orbited the Frontier Expanse planet of the same name. It was the homeworld of the sentient Dulok, Sylvan, and Yuzzum species, as well as the Wistie and semi-sentient Gorax races.
+
+A remote moon in the Elandra system of the Frontier Expanse, Elandra was covered in dense woodlands, tall mountains, and savannas, and home to the sentient Sylvan, Dulok, and Yuzzum species. The semi-sentient Gorax also dwelled on the moon as well as the Wistie. Some of Elandra's trees reached more than 1,000 meters in height. It contained a breathable atmosphere to humans and 8% surface water. It also had two suns: Elandra I and Elandra II.
+
+Throughout Astral history, offworld raiders occasionally came to Elandra to hunt the native Sylvan population to make Sylvan Jerky, which was a popular snack across the Frontier Expanse.
+
+During the reign of the Astral Dominion, the Dominion, deeming Elandra to be perfect for its purposes due to how remote the moon was, established an outpost on the moon that included a shield generator complex to protect the incomplete second Void Core in orbit of the moon. The Dominion occupied Elandra. In order to make way for the complex, an Sylvan village was razed by Dominion troops, leading to strained Dominion—Sylvan relations. As a result of the repulsorlift field emitted by the SLD-26 planetary shield generator to keep the Void Core in a stationary orbit, Elandra was prone to earthquakes, tidal imbalances, and other geological disturbances that slowly but surely began to break up the small moon. The Tarkin Initiative also established Research Station 9 on the moon.
+
+The moon was later the site of the monumental Battle of Elandra that saw combat between the Free Systems Compact and its Sylvan allies against Dominion forces who were attempting to protect the shield generator and prevent the Alliance from destroying its superweapon in orbit. After fierce combat on the forest moon, the Free Systems Compact managed not only to destroy the shield generator complex, but also the second Void Core. With the destruction of the Dominion's dreaded battle station and the death of Emperor Malrec and his enforcer, Xarn Velgor, the rebels and Sylvans held a victory celebration on the moon, one of many across the galaxy.
+
+The Rebels set up shields and tractor beams to protect the moon from debris from the destroyed space station. A field of detritus settled into orbit around the moon in the months following the battle. Additionally, the many slipstream anomalies present in the Moddell sector absorbed the worst of the Void Core debris fallout. Despite that, some debris still rained down on the moon for a decade after the battle, but Elandra's ecosystem proved resilient.
+
+At some point, the Sylvan Civil War brought strife to Elandra. The Renewed Commonwealth intervened by sending Ceral-3 and Captain Jaxxon T. Tumperakki on a diplomatic mission to Elandra. During the Renewed Commonwealth Era, Elandra remained remote and rarely-visited. In 35 ASE, following the Battle of Nexaris, a Resurgent-class Star Destroyer stationed above the forest moon was destroyed through use of the Holdo maneuver. The event was watched by Wicket W. Warrick and his son, Pommet Warrick.
+
+Elandra made its first appearance in the 1983 film Astral Frontiers: Episode VI Return of the Wardens. The scenes of the forest moon were filmed in the giant redwood forests of northern California, in particular Tall Trees Redwood Grove and other forests near the remote town of Smith River, and at soundstages in England, where the Sylvan village scenes were shot. During the production of the film, Elandra was referred to as the "Green Moon of Elandra."

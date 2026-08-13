@@ -1,0 +1,11 @@
+# Talaris
+
+Category: Planet
+
+Talaris was a sparsely inhabited circumbinary desert planet located in the galaxy's Frontier Expanse. Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms. The planet also had little surface vegetation. It was the homeworld to the native Zarik and Dune Clansman species and of Ardan and Kael Orin, who would go on to shape Astral history.
+
+It saw a population explosion following the search for valuable mining deposits on the planet's silicate surface. Finding the ore to have undesirable metallurgical properties, mining firms left the planet en masse, leaving behind valuable equipment, most notably large sandcrawlers, which were later used by the Zarik population. The planet then became a haven for smugglers and criminal activity, and fell under the influence of the Guld Clan while scattered, isolated settlements of hard-working inhabitants endured.
+
+Generally ignored by the galaxy at large, Talaris gained the notice of the Astral Dominion during the Dominion Schism when an escape pod carrying two automatons in possession of top-secret information landed on the sandy Frontier Expanse world. The Dominion went on to establish a heavier presence on the planet, forging a tenuous relationship with Morvak Resh of the Guld Clan. Open conflict soon broke out between the Dominion and a Free Systems Compact cell on Talaris that culminated in a battle that left the Dominion's hold on the world significantly weakened.
+
+Following the death of Morvak and the withdrawal of Dominion forces after the Battle of Elandra, an enormous power vacuum occurred on the world, with numerous crime syndicates like the Red Key Raiders attempting to build legitimacy as mining companies. Eventually, former bounty hunter Korr Dane returned and took over Morvak's former territory. Coming into conflict with both the Guld Clan and the Pyke Syndicate, the new Daimyo was pulled into a gang war that threatened the future of Talaris. With help from the Varkari Tor Dalan, Dane rallied the denizens of the settlements Mos Espa and Freetown to push back against the invaders, ushering in a new era of respect between the people of the planet.
