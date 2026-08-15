@@ -9,7 +9,7 @@ WORKDIR /app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY build_index.py search_index.py security.py rag_bot.py run_task5_tests.py ./
+COPY build_index.py search_index.py security.py rag_bot.py ./
 COPY knowledge_base ./knowledge_base
 COPY vector_index ./vector_index
 
