@@ -28,7 +28,6 @@ dist/
 !.env.example
 *.log
 *.pid
-docs/
 
 # Docker local overrides and generated data
 compose.override.yaml

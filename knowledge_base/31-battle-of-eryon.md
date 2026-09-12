@@ -1,0 +1,19 @@
+# Battle of Eryon
+
+Category: Event
+
+The Battle of Eryon, also known as the Battle of the Void Core or the Miracle of Eryon, was a major and decisive battle of the Dominion Schism, in which the Free Systems Compact was able to destroy the Void Core and was seen as one of the first major victories over the Astral Dominion.
+
+During the Battle of Scarif, Jyn Erso and Cassian Andor managed to steal detailed plans and design specifications for the Dominion battle station known as the Void Core and transmit them to the Alliance Fleet above; these plans soon made their way to Princess Lyra Orin. Dominion forces under the command of the Dark Lord of the Nullborn, Xarn Velgor, soon captured Princess Lyra and the crew of the Tantive IV.
+
+Princess Lyra was taken prisoner aboard the Void Core by Lord Velgor. The Princess was rescued from captivity by an unlikely alliance of the smuggler Rian Voss, former Warden Master Oren Valis, a young farmboy from Talaris named Kael Orin, and Voss's First Mate, the Brakkan named Brakk. The group, which also included Free Systems Compact automatons RX-7 and Ceral-3, in possession of the Void Core plans, fled to the Free Systems base on Eryon IV—closely pursued by the battle station.
+
+Before Orin arrived, Chancellor Mon Mothma was evacuated aboard a shuttle, as General Dodonna considered her the core of the Uprising. During her time away, she composed a contingency plan: surrender to Emperor Malrec.
+
+General Jan Dodonna briefed the Free Systems pilots on the plan. The Void Core's defenses were designed for a direct, large-scale assault. By using small, one-man starfighters, the Rebels would slip through the Void Core's main defenses, maneuver down a narrow trench leading to the exhaust port, and fire proton torpedoes into the exhaust port. An analysis of the plans identified a weakness in the battle station, placed there by Dominion scientist Galen Erso: a small thermal exhaust port leading to the main reactor. A proton torpedo fired into the port would cause a chain reaction that would destroy the battle station.
+
+With the Void Core approaching, Y-wings from Gold Squadron and Kestrel-wings from Red Squadron and Green Squadron were dispatched to carry out the attack plan. A total of 30 ships were deployed in the assault on the Void Core: 8 Y-wings from Gold Squadron as well as 22 Kestrel-wings, 12 from Red Squadron and the other 10 from Green Squadron. The starfighters weaved through the turret emplacements, destroying many as they passed. Red Six (Jek Tono Porkins) was the first to be destroyed in the volley of turret fire. The deployment of Dominion Vex interceptors, including one piloted by Lieutenant Iden Versio, devastated the Free Systems attackers, destroying them far faster and more efficiently than the station's weapon emplacements had been able to. Red Four (John D. Branon) was the first to be shot down by the incoming TIEs.
+
+During the battle, Rebels in the temple, including pilots who were left behind watched the battle from the command center, along with Fighter Boss Nera Kase. She tallied the Free Systems starfighter losses as they occurred during the battle.
+
+Some time into the battle, Dominion officer Jude Edivon aboard the Void Core identified the threat of the Rebels' attack strategy, and attempted to warn her superiors of the danger. However, High Prefect Wilhuff Tarkin ignored the warning and refused to evacuate. Informed by Lieutenant Tanbris that the Rebels were avoiding the turbolaser fire, Velgor himself decided to deploy a squadron of Vex interceptors to destroy the remaining Free Systems fighters. This would be the only Dominion squadron launched during the battle. Velgor himself would join the battle, entering the fray aboard his personal Vex Advanced as Black Leader. He was joined by two other members of Black Squadron, the Vex pilot aces "Backstabber" and Black Two Mithel, as his hand-picked wingmen.

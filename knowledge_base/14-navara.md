@@ -1,0 +1,11 @@
+# Navara
+
+Category: Planet
+
+Navara was a bountiful planet in the Chommell sector of the Mid Rim, in the Trailing Sectors and close to the border of the Frontier Expanse. It was home to the indigenous Gungan species and to a population of humans known as the Navara. Navara was pushed to the forefront of Astral politics as the birthplace of the Dark Lord of the Nullborn Malrec, who served as its representative in the Senate of the Celestial Commonwealth.
+
+Under the guise of his Nullborn title Malrec, Malrec secretly engineered an invasion of his peaceful homeworld by the Mercantile Union, a megacorporation in a bid for power. Ostensibly done in protest over proposed taxation of formerly free trade routes, the Federation's invasion led to an outpouring of support from the Senate for both Malrec and the newly-elected Queen of Navara, Sera Valen. Valen led a successful resistance movement and removed the Federation from her world during the Battle of Navara. Malrec subsequently rose to the office of the First Chancellor of the Commonwealth, with Valen eventually taking his place as the planet's senatorial representative.
+
+Navara would commit itself firmly to democracy in the intervening years, staying loyal to the Commonwealth during the pan-Astral Replicant Wars, which saw several military engagements against the Secession Compact come to the planet. By the time of the war's end, Malrec had amassed considerable power and proclaimed himself the head of a new Astral Dominion. Malrec's reign would eventually be ended by the Free Systems Compact, a Free Systems movement led by Valen's children, Lyra Orin and Kael Orin.
+
+Despite his origins on the planet, Malrec did not care at all for his homeworld and, following his death, Navara was named a priority target for Operation: Cinder, a protocol that the Nullborn Lord had put in place to destroy Dominion worlds should they fail to protect their Emperor. Through the intervention of Orin and Queen Sosha Soruna, however, Navara was spared from ruin and went on to become a member of the successor state to the Alliance, the Renewed Commonwealth. Decades later, the planet would again fight against tyranny, rising up against the military junta of the New Dominion during its war with Orin's Resistance.

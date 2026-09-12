@@ -1,0 +1,17 @@
+{
+  "model": "nomic-embed-text",
+  "model_reference": "https://ollama.com/library/nomic-embed-text",
+  "dimensions": 768,
+  "index_type": "IndexFlatIP",
+  "similarity": "cosine (L2-normalized inner product)",
+  "document_count": 33,
+  "chunk_count": 122,
+  "chunk_size_words": 200,
+  "chunk_overlap_words": 40,
+  "min_chunk_words": 7,
+  "max_chunk_words": 295,
+  "embedding_batch_size": 16,
+  "embedding_seconds": 1.161,
+  "total_seconds": 1.295,
+  "created_at_utc": "2026-08-12T15:24:41+00:00"
+}
